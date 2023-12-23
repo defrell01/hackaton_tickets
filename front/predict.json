@@ -1,0 +1,13 @@
+{
+    "airline_code": "unknown",
+    "flight": "unknown",
+    "departure_city": "London",
+    "departure_time": "",
+    "stops": "",
+    "arrival_time": "unknown",
+    "arrival_cty": "Amsterdam",
+    "cabin_class": "Economy",
+    "duration": 0.0,
+    "days_left": 880,
+    "price": 12112.3
+}

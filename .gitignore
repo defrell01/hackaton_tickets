@@ -1,0 +1,9 @@
+*/*.sqlite
+*/model/*.pkl
+*/__pycache__/*
+*/.idea/
+*/*.csv
+*/.env
+*/venv
+*/model/*.pkl
+*/*/__pycache__/*
