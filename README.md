@@ -38,3 +38,6 @@ python.exe ./app.py
 ```
 Так же необходимо предоставить .env файл с ключем для API "FlightAPI"
 
+Примеры запросов через "Postman"
+![Пример1](/imgs/postman1.png)
+![Пример1](/imgs/postman2.png)
